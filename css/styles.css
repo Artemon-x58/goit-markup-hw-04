@@ -15,6 +15,7 @@
 	--icons-color: #8e8f99;
 	--bg-icons-footer: rgba(255, 255, 255, 0.1);
 	--bg-hover-icons-footer: #31d0aa;
+	--text-main: #434455;
 }
 h1,
 h2,
@@ -512,4 +513,5 @@ body {
 	margin-bottom: 8px;
 }
 .portfolio-subtitle {
+	color: var(--text-main);
 }
